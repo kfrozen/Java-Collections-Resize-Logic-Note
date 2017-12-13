@@ -1,3 +1,5 @@
+## Java中集合的扩容策略及实现
+
 从源码角度分析Java中常用集合类的扩容机制
 
 从这一篇开始，会陆续通过笔记来整理和记录之前看过的各种Java集合相关的知识点，主要包括List和Map。今天这一篇主要整理一下**集合扩容**相关的知识，涉及到的集合框架有：HashMap，ArrayMap，SparseArray，ArrayList，Vector。下面先从ArrayList开始。
